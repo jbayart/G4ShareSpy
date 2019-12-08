@@ -1,2 +1,2 @@
-github "LoopKit/LoopKit" ~> 3.0
-github "LoopKit/dexcom-share-client-swift" ~> 1.2
+github "jbayart/LoopKit" "mitchellhenke-rsilvers-fpu"
+github "jbayart/dexcom-share-client-swift.git" "FPU"
